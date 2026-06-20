@@ -74,7 +74,7 @@ Although port scanning by itself is considered low severity, the activity origin
 
 The custom Elastic Security detection rule successfully generated an alert based on the excessive number of packet drop events.
 
-<img width="800" alt="SS17" src="https://github.com/user-attachments/assets/ee3269a0-9308-4ed3-a882-a199271f6f4a" />
+<img width="1920" height="879" alt="SS10" src="https://github.com/user-attachments/assets/ffab88cc-3d9b-4d56-ab1e-5a9d92b19636" />
 
 ---
 
