@@ -46,7 +46,7 @@ The scan pattern matched typical Nmap TCP Connect Scan behavior.
 
 ### Evidence — Nmap Scan Results
 
-![Nmap Scan Output] (<img width="694" height="405" alt="SS11" src="https://github.com/user-attachments/assets/865164cc-dba7-4af4-a717-7104705c8f11" />)
+<img width="694" height="405" alt="SS11" src="https://github.com/user-attachments/assets/865164cc-dba7-4af4-a717-7104705c8f11" />
 
 ---
 
@@ -56,7 +56,6 @@ Elastic Discover showed a significant spike of Windows Security Event ID **5152*
 
 A total of approximately **135,048 packet drop events** were recorded during the attack window, confirming large-scale reconnaissance behavior.
 
-![Discover View]
 <img width="800" alt="SS14" src="https://github.com/user-attachments/assets/0a84811d-cb52-40c5-a61a-9b987d45717e" />
 
 ---
@@ -75,7 +74,6 @@ Although port scanning by itself is considered low severity, the activity origin
 
 The custom Elastic Security detection rule successfully generated an alert based on the excessive number of packet drop events.
 
-![Elastic Alert]
 <img width="800" alt="SS17" src="https://github.com/user-attachments/assets/ee3269a0-9308-4ed3-a882-a199271f6f4a" />
 
 ---
@@ -91,7 +89,6 @@ Further investigation of the alert showed:
 
 The alert metadata confirmed that the event volume exceeded the configured threshold and was consistent with automated scanning activity.
 
-![Alert Details]
 <img width="1920" height="927" alt="SS13" src="https://github.com/user-attachments/assets/b4647d91-272d-4137-b00e-707637a23c74" />
 
 ---
