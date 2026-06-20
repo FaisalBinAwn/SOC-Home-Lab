@@ -46,8 +46,7 @@ The scan pattern matched typical Nmap TCP Connect Scan behavior.
 
 ### Evidence — Nmap Scan Results
 
-![Nmap Scan Output] 
-<img width="694" height="405" alt="SS11" src="https://github.com/user-attachments/assets/865164cc-dba7-4af4-a717-7104705c8f11" />
+![Nmap Scan Output] (<img width="694" height="405" alt="SS11" src="https://github.com/user-attachments/assets/865164cc-dba7-4af4-a717-7104705c8f11" />)
 
 ---
 
