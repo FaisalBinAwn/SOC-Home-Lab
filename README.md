@@ -22,6 +22,13 @@ alert triage and incident investigation.
 - MITRE ATT&CK Framework
 - NCA ECC / SAMA CSF alignment
 
+## Certifications
+- CompTIA Security+
+- CompTIA CySA+
+- EC-Council CSA
+- eLearnSecurity eCTHP
+- NCA CyberPro+
+
 ## Attack Scenarios
 
 | # | Scenario | Tool | Detection | Status |
