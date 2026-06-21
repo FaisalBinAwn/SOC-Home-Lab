@@ -13,7 +13,7 @@ The objective was to validate Elastic SIEM visibility, alert generation, and SOC
 | Field          | Value                                  |
 | -------------- | -------------------------------------- |
 | Alert Name     | Potential SYN-Based Port Scan Detected |
-| Date/Time      | Jun 20, 2026 @ 09:25:00.847            |
+| Date/Time      | Jun 19, 2026 @ 21:43:10.067            |
 | Severity       | Low                                    |
 | Source IP      | 10.0.0.5                               |
 | Destination IP | 10.0.0.4                               |
