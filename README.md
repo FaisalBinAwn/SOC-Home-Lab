@@ -43,4 +43,4 @@ alert triage and incident investigation.
 
 
 ## Investigation Reports
-- [Scenario 1 — Port Scan Detection](scenario1-portscan-investigation.md)
+- [Scenario 1 — Port Scan Detection](scenario1 - Port scan investigation.md)
