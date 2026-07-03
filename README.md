@@ -43,4 +43,5 @@ alert triage and incident investigation.
 
 
 ## Investigation Reports
-- [Scenario 1 — Port Scan Detection](scenario1 - Port scan investigation.md)
+- [Scenario 1 — Port Scan Detection](scenario1%20-%20Port%20scan%20investigation.md)
+- [Scenario 2 — SMB Brute Force Detection](scenario2%20-%20SMB%20Brute%20Force%20Detection%20Investigation.md)
