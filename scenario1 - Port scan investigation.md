@@ -139,3 +139,8 @@ A full Nmap TCP port scan originating from the Kali Linux attacker machine was s
 The attack generated over 131,000 security events, identified multiple exposed services on the target host, and triggered a custom detection rule designed to identify scanning activity.
 
 The incident was classified as a True Positive and mapped to MITRE ATT&CK techniques T1595 (Active Scanning) and T1046 (Network Service Discovery), demonstrating the effectiveness of the SOC Home Lab for detection engineering and incident investigation practice.
+
+---
+
+## Next in this series
+➡️ [Scenario 2 — SMB Brute Force Detection Investigation](scenario2%20-%20SMB%20Brute%20Force%20Detection%20Investigation.md)
