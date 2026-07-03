@@ -138,3 +138,8 @@ MITRE ATT&CK mapping identified the tactic as Credential Access (T1110, T1110.00
 An SMB brute force attack originating from the Kali Linux attacker machine, targeting the administrator account on the Windows victim host, was successfully detected and investigated using Elastic SIEM.
  
 The attack generated 20 Event ID 4625 (failed logon) events and triggered a High severity alert from a custom threshold-based detection rule. The incident was classified as a True Positive and mapped to MITRE ATT&CK techniques T1110 (Brute Force) and T1110.001 (Password Guessing), demonstrating the effectiveness of the SOC Home Lab for detection engineering and incident investigation practice.
+
+---
+
+## Previous in this series
+⬅️ [Scenario 1 — Port Scan Detection Investigation](scenario1%20-%20Port%20scan%20investigation.md)
