@@ -35,7 +35,7 @@ alert triage and incident investigation.
 |---|---|---|---|---|
 | 1 | Network Port Scan | Nmap | EID 5152 + Threshold Rule | ✅ Complete |
 | 2 | SMB Brute Force | Impacket | EID 4625 | ✅ Complete |
-| 3 | LSASS Dump | Mimikatz | EID 10 | ⏳ Planned |
+| 3 | LSASS Dump | Mimikatz | EID 10 | ✅ Planned |
 | 4 | Ransomware Sim | PowerShell | EID 11 | ⏳ Planned |
 | 5 | C2 Beaconing | Metasploit | EID 3 | ⏳ Planned |
 
