@@ -36,7 +36,7 @@ alert triage and incident investigation.
 | 1 | Network Port Scan | Nmap | EID 5152 + Threshold Rule | ✅ Complete |
 | 2 | SMB Brute Force | Impacket | EID 4625 | ✅ Complete |
 | 3 | LSASS Dump | Mimikatz | EID 10 | ✅ Complete |
-| 4 | Ransomware Sim | PowerShell | EID 11 | ⏳ Planned |
+| 4 | PowerShell Obfuscation | PowerShell | EID 1 | ✅ Complete |
 | 5 | C2 Beaconing | Metasploit | EID 3 | ⏳ Planned |
 
 <img width="900" alt="SS9" src="https://github.com/user-attachments/assets/213d1142-7b52-4770-8509-d8bb62dad343" />
@@ -46,3 +46,4 @@ alert triage and incident investigation.
 - [Scenario 1 — Port Scan Detection](scenario1%20-%20Port%20scan%20investigation.md)
 - [Scenario 2 — SMB Brute Force Detection](scenario2%20-%20SMB%20Brute%20Force%20Detection%20Investigation.md)
 - [Scenario 3 — LSASS Memory Access Detection Investigation](scenario3%20-%20lsass%20mimikatz%20investigation.md)
+- [Scenario 4 — PowerShell Obfuscation Detection Investigation](Scenario%204%20-%20PowerShell%20Obfuscation%20Detection%20Investigation.md)
