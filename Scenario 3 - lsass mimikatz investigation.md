@@ -141,3 +141,5 @@ The attack generated Sysmon Event ID 10 events with a GrantedAccess mask of `0x1
 
 ## Previous in this series
 ⬅ [Scenario 2 — SMB Brute Force Detection Investigation](scenario2%20-%20SMB%20Brute%20Force%20Detection%20Investigation.md)
+## Next in this series
+➡ [Scenario 4 — PowerShell Obfuscation Detection Investigation](Scenario%204%20-%20PowerShell%20Obfuscation%20Detection%20Investigation.md)
